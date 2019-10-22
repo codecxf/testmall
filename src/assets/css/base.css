@@ -1,2 +1,5 @@
 @import "./nomalize.css";
 
+:root{
+    --color-pink:#FF66FF
+}
