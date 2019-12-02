@@ -4,6 +4,7 @@
         <div class="center"><slot name="center"></slot></div>
         <div class="right"><slot name="right"></slot></div>
     </div>
+    <div>test conact</div>
 </template>
 
 <script>
